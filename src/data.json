@@ -1,0 +1,62 @@
+[
+  {
+    "url": "http://voice-book.stswoon.ru/",
+    "title": "Говорящая книга",
+    "description": "Приложение для переводе текстовых книг в голос",
+    "imgSrc": "img/voice-book.jpg"
+  },
+  {
+    "url": "https://stswoon.blogspot.com/",
+    "title": "stswoon.blogspot.com",
+    "description": "Блог о программировании, путешествиях и др.",
+    "imgSrc": "img/blog.jpg"
+  },
+  {
+    "url": "https://stswoon-poker-planing.onrender.com/",
+    "title": "Free Poker Planing",
+    "description": "Покер планинг без ограничений",
+    "imgSrc": "img/poker.png"
+  },
+  {
+    "url": "https://dialogs.yandex.ru/store/skills/2006f673-moj-tvister",
+    "title": "Мой Твистер",
+    "description": "Навык кручения рулетки твистера для колонки Алиса",
+    "imgSrc": "img/twister.jpg"
+  },
+  {
+    "url": "https://stswoon.github.io/how-old-are-you/index.html",
+    "title": "how-old-are-you",
+    "description": "Приложение, чтобы знать свой возраст",
+    "imgSrc": "img/how-old-are-you.jpg"
+  },
+  {
+    "url": "https://stswoon-song-riddle.onrender.com/",
+    "title": "Угадай переведенную песню",
+    "description": "Нужно угадать песню, которую проводят через один или несколько переводов",
+    "imgSrc": "img/song-riddle.jpg"
+  },
+  {
+    "url": "https://stswoon-puzzle.onrender.com",
+    "title": "Программерская загадка",
+    "description": "",
+    "imgSrc": "img/puzzle.jpg"
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=nodomain.stswoon.workTime",
+    "title": "Помощник для учета времени",
+    "description": "",
+    "imgSrc": "img/work-timer.png"
+  },
+  {
+    "url": "http://lingva-ml-standby.stswoon.ru:10002",
+    "title": "Переводчик",
+    "description": "",
+    "imgSrc": "img/lingva.jpg"
+  },
+  {
+    "url": "https://stswoon.github.io/css-example/index.html",
+    "title": "css-example",
+    "description": "Пример адаптивной верстки",
+    "imgSrc": "img/css-example.jpg"
+  }
+]
